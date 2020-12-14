@@ -1,1 +1,1 @@
-# Transcription-and-Extractive-Summarization-of-Meetings
+# Extractive-Summarization-of-Meetings
